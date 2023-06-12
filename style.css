@@ -61,6 +61,10 @@ body {
         display: block;
         text-align: center;
     }
+    
+    .info-text{
+        margin-left: 0;
+    }
 }
 
 .card {
